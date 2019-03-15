@@ -1,4 +1,4 @@
-# 🔢 Week03 Alumni Project: Accessible Todo List
+# 📋 Week03 Alumni Project: Accessible Todo List
 
 ### Goal: Build a Simple Yet Fully Accessibler Todo List
 
